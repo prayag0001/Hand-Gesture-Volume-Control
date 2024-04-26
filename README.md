@@ -1,5 +1,8 @@
 # Hand Gesture Volume Control System
 
+<img width="960" alt="2024-04-26" src="https://github.com/prayag0001/Hand-Gesture-Volume-Control/assets/124364734/7e3020cd-06fd-4fd8-ac67-345b8c2ca47f">
+
+
 This project utilizes hand gestures to control the volume of the system. It uses computer vision techniques to detect hand landmarks and interprets gestures to 
 adjust the volume accordingly.
 
@@ -7,8 +10,10 @@ adjust the volume accordingly.
 
 - Python 3.x
 - OpenCV
+- Numpy
 - Mediapipe
 - PyCaw
+- Comtype
 
 ## Installation
 
